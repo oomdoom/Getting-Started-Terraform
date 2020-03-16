@@ -1,7 +1,0 @@
-aws_access_key = "AKIAI2THPPCARJSMETCQ"
-
-aws_secret_key = "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"
-
-key_name = "Terraform-Test"
-
-private_key_path = "C:\Users\mohammad.u.nasir\Downloads\Terraform-Test.pem"
