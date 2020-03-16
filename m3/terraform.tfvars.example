@@ -1,6 +1,6 @@
-aws_access_key = "AKIAI2THPPCARJSMETCQ"
+aws_access_key = ""
 
-aws_secret_key = "imX0mnpBGfuIUXxcDh/yBuTIDOpjlzKqjzs0LBAL"
+aws_secret_key = ""
 
 key_name = "Terraform-Test"
 
