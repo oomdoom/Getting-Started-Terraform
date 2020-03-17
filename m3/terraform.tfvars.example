@@ -2,6 +2,6 @@ aws_access_key = ""
 
 aws_secret_key = ""
 
-key_name = "Terraform-Test"
+key_name = ""
 
-private_key_path = "C:\Users\mohammad.u.nasir\Downloads\Terraform-Test.pem"
+private_key_path = ""
